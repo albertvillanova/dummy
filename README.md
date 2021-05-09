@@ -1,1 +1,3 @@
 # dummy
+
+Dummy repository.
